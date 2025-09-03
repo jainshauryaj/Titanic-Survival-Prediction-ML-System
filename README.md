@@ -530,10 +530,6 @@ def validate_survival_models(X_train, y_train, X_test, y_test):
 - **Performance Optimization**: 88.7% (efficiency improvements)
 - **Historical Value**: 96.8% (based on research metrics)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Kaggle Community**: For hosting the Titanic competition
